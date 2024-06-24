@@ -1,1 +1,1 @@
-#This is the just a demo for solar system project
+#This is the just a demo for solar system  for the implementing the css and using it in real world projects.
